@@ -7,5 +7,6 @@ package com.li.test;
 public class GitDemo {
     public static void main(String[] args) {
         System.out.println("hello github 111");
+        System.out.println("hello github 111 remote");
     }
 }
